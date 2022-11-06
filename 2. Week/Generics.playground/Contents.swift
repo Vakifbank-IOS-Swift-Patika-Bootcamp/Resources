@@ -69,7 +69,7 @@ struct Stack<Element> {
 
 var stackOfStrings = Stack<String>()
 stackOfStrings.push("uno")
-stackOfStrings.push("das")
+stackOfStrings.push("dos")
 stackOfStrings.push("tres")
 let fromTheTop = stackOfStrings.pop()
 
